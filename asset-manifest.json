@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactContext/static/css/main.152fd0ae.chunk.css",
+    "main.js": "/ReactContext/static/js/main.e403e598.chunk.js",
+    "main.js.map": "/ReactContext/static/js/main.e403e598.chunk.js.map",
+    "runtime-main.js": "/ReactContext/static/js/runtime-main.18242ca4.js",
+    "runtime-main.js.map": "/ReactContext/static/js/runtime-main.18242ca4.js.map",
+    "static/js/2.18cf3821.chunk.js": "/ReactContext/static/js/2.18cf3821.chunk.js",
+    "static/js/2.18cf3821.chunk.js.map": "/ReactContext/static/js/2.18cf3821.chunk.js.map",
+    "static/js/3.12d82a88.chunk.js": "/ReactContext/static/js/3.12d82a88.chunk.js",
+    "static/js/3.12d82a88.chunk.js.map": "/ReactContext/static/js/3.12d82a88.chunk.js.map",
+    "index.html": "/ReactContext/index.html",
+    "static/css/main.152fd0ae.chunk.css.map": "/ReactContext/static/css/main.152fd0ae.chunk.css.map",
+    "static/js/2.18cf3821.chunk.js.LICENSE.txt": "/ReactContext/static/js/2.18cf3821.chunk.js.LICENSE.txt",
+    "static/media/librerias-gandhi.6fd17556.png": "/ReactContext/static/media/librerias-gandhi.6fd17556.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18242ca4.js",
+    "static/js/2.18cf3821.chunk.js",
+    "static/css/main.152fd0ae.chunk.css",
+    "static/js/main.e403e598.chunk.js"
+  ]
+}
