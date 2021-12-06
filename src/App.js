@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import CarritoTable from "./Components/CarritoTable";
+import Header from "./Components/Header";
+import LibrosTable from "./Components/LibrosTable";
+import AppProvider from "./Context/AppContext";
 
 function App() {
+  
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header></Header>
+      <div className="tables">
+        <AppProvider>
+        <LibrosTable></LibrosTable>
+        <CarritoTable></CarritoTable>
+        </AppProvider>
+      </div>
     </div>
   );
 }
 
 export default App;
+
